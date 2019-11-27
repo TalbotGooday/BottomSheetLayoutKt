@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="BottomSheetLayout">
+		<attr name="collapsedHeight" format="dimension" />
+		<attr name="indentTop" format="dimension" />
+		<attr name="isSwipable" format="boolean" />
+		<attr name="cornersRadius" format="dimension"/>
+	</declare-styleable>
+
+</resources>
